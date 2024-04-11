@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\MyBloggerWeb</_PublishTargetUrl>
+    <History>True|2023-12-29T14:32:28.5925268Z;False|2023-12-29T21:30:59.6466460+07:00;True|2023-12-27T21:53:30.8904706+07:00;True|2023-12-27T21:37:41.7323348+07:00;False|2023-12-27T21:34:23.5769420+07:00;</History>
+  </PropertyGroup>
+</Project>

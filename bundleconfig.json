@@ -1,0 +1,19 @@
+﻿[
+	//Cài đặt Extension Web Essentials 2019 và BuildBundlerMinifier Package
+	//Nếu thành công và ta đặt tên file đúng sẽ có logo ở dưới góc
+
+	{
+		//CSS
+		"inputFiles": [ "wwwroot/css/site.css" ],
+		//Xuất hiện file css.min rút gọn mã của file chính css tại explorer
+		"outputFileName": "wwwroot/css/site.min.css"
+	},
+	{
+		"inputFiles": [ "wwwroot/js/site.js" ],
+		"outputFileName": "wwwroot/js/site.min.js",
+		"minify": {
+			"enabled": true, //Giảm kích thước tệp
+			"renameLocals": true //var option = {} ===>>> var 0 {}
+		}
+	}
+]
